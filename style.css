@@ -1,0 +1,19 @@
+/* class selector */
+.heading {
+    color:brown;
+}
+
+/* id selector */
+#about {
+    color:blue;
+}
+
+/* element selector */
+section {
+    background-color:blueviolet;
+}
+
+/* global selector */
+* {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
